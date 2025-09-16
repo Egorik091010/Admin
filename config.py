@@ -1,0 +1,6 @@
+TOKEN = ''
+DATABASE = 'help.db'
+
+
+
+        
